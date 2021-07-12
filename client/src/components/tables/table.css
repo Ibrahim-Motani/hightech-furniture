@@ -1,0 +1,9 @@
+main {
+  background: #F8F9FA;
+  grid-area: main;
+  overflow-y: auto;
+}
+
+.main__container {
+  padding: 20px 35px;
+}
